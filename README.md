@@ -12,6 +12,8 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 -git hub class room teacher.
 - java,php,html,css,c,c#,c+ developer.
 
+![Image](https://twitter.com/KYasintha/photo)
+
 
 
 
@@ -38,7 +40,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](SKY.jpg)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
