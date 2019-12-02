@@ -39,6 +39,21 @@ All git hub user can use this page and coonducting
 
 ![Image](https://www.instagram.com/p/B4PH_lsF0_S/?utm_source=ig_web_copy_link)
 
+# Contributions 
+
+popular Repositories
+Show off the fancy repositories you’ve created. Your repositories with the most stars and watchers make it to the top of this list.
+
+### Repositories Contributed To
+You’re making contributions to projects all over GitHub and we want to show everyone what you’re doing. Whenever you commit to a project’s default branch or the gh-pages branch, open an issue, or propose a Pull Request, we’ll count that as a contribution. Repositories are sorted by your recent impact. A commit today is worth more than a commit last week.
+
+This also makes it easier to see what others are working on in your Organization. Any repositories you have in common with the profile you’re viewing are shown in this list.
+
+ ### Contributions Calendar
+The contributions calendar shows how frequently you’ve been contributing over the past year. We’ve had a great time with this internally. We’ve been annotating our ships, vacations, talks and even graduations! Here’s our very own Tim Clem‘s annotated calendar
+ ### Contribution Activity
+Contribution activity is a great way to see what someone has been up to on GitHub. You can see a really concise view of proposed Pull Requests, open issues and commits.
+
 
 
 
