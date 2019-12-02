@@ -12,7 +12,7 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 -git hub class room teacher.
 - java,php,html,css,c,c#,c+ developer.
 
-![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/SKY.jpg)
+![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/EISeQlIW4AAgCh1.jpg)
 
 
 
