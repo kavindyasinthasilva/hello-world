@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 title: kavindu yasintha
-description: Leap Day is a theme for GitHub Pages.
+description: printf("hello world");
 show_downloads: true
 google_analytics:
 gem "github-pages", group: :jekyll_plugins
