@@ -4,11 +4,16 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 
 ### who is the [kavindu yasintha](https://github.com/kavindyasinthasilva) 
 
+- software enginer at [skysoftlk](https://github.com/skysoftlk)
+- student at [nsbm green university ](http://www.nsbm.ac.lk/)
+-  [git hub education commiunity](https://education.github.community/u/kavindyasinthasilva/summary) member
+- foss community volunteer
+- ieee nsbm volunteer
 
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
