@@ -7,6 +7,7 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 - software enginer at [skysoftlk](https://github.com/skysoftlk).
 - student at [nsbm green university ](http://www.nsbm.ac.lk/).
 -  [git hub education commiunity](https://education.github.community/u/kavindyasinthasilva/summary) member.
+- [Dev commiunity](https://dev.to/kavindyasinthasilva) member.
 - foss community volunteer.
 - ieee nsbm volunteer.
 -git hub class room teacher.
