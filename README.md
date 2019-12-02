@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages (kavindu yasintha)
+# Welcome to GitHub Pages (kavindu yasintha)
 
 This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub page.
 
@@ -14,11 +14,11 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 
 ![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/EISeQlIW4AAgCh1.jpg)
 
-### about
+# about
 This page use kavindu yasintha class room and market place promotions .
 All git hub user can use this page and coonducting
 
-# git hub class room links
+### git hub class room links
 
  -[my first class room ](https://classroom.github.com/a/WupDIoOW).
 - [Google kick star ](https://classroom.github.com/a/Z3VdOcYe).
