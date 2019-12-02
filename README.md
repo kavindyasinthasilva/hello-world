@@ -20,10 +20,10 @@ All git hub user can use this page and coonducting
 
 # git hub class room links
 
-[my first class room ](https://classroom.github.com/a/WupDIoOW).
-[Google kick star ](https://classroom.github.com/a/Z3VdOcYe).
-[intro html  ](https://classroom.github.com/a/Sfg1RL-c).
-[facebook html](https://classroom.github.com/a/bfHGmHIn).
+ -[my first class room ](https://classroom.github.com/a/WupDIoOW).
+- [Google kick star ](https://classroom.github.com/a/Z3VdOcYe).
+- [intro html  ](https://classroom.github.com/a/Sfg1RL-c).
+- [facebook html](https://classroom.github.com/a/bfHGmHIn).
 
 
 
