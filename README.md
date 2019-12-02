@@ -25,6 +25,17 @@ All git hub user can use this page and coonducting
 - [intro html  ](https://classroom.github.com/a/Sfg1RL-c).
 - [facebook html](https://classroom.github.com/a/bfHGmHIn).
 
+# contact info
+
+ -[Git hub ](https://github.com/kavindyasinthasilva).
+- [instagram](https://www.instagram.com/_k.yasintha_silva_/).
+- [facebook ](https://www.facebook.com/S.H.K.Yasintha).
+- [Dev community](https://dev.to/kavindyasinthasilva).
+- [twitter](https://twitter.com/KYasintha).
+-  [Linkedin](https://www.linkedin.com/in/s-kavindu-yasintha-sliva-b0378b182/).
+
+
+
 
 
 
