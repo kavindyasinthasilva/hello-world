@@ -4,3 +4,6 @@ description: printf("hello world");
 show_downloads: true
 google_analytics:
 gem "github-pages", group: :jekyll_plugins
+github:
+  zip_url: https://github.com/kavindyasinthasilva
+  another_url: another value
