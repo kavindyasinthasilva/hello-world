@@ -59,7 +59,7 @@ Contribution activity is a great way to see what someone has been up to on GitHu
 
 
 
-![Image](![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/EISeQlIW4AAgCh1.jpg))
+![Image](![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/Untitled-2.jpg))
 
 
 
