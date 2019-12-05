@@ -1,7 +1,8 @@
 # Welcome to GitHub Pages (kavindu yasintha)
 
 This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub page.
-[![Integration status]((https://app.rollout.io/app/5daff72bfc53991b2d910e6d/settings/info)
+
+[![Integration status] (https://github.com/kavindyasinthasilva)
 
 ### who is the [kavindu yasintha](https://github.com/kavindyasinthasilva) 
 
