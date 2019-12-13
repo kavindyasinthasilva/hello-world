@@ -57,9 +57,10 @@ The contributions calendar shows how frequently you’ve been contributing over 
 Contribution activity is a great way to see what someone has been up to on GitHub. You can see a really concise view of proposed Pull Requests, open issues and commits.
 
                                            
-####                                                 Developer by - kavindu yasintha silva
+####                                             Developer by - kavindu yasintha silva
 
 
+SKY SILVA
 ![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/Untitled-2.jpg))
 
 
