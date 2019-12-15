@@ -12,8 +12,8 @@ This is  [kavindu yasintha](https://github.com/kavindyasinthasilva) main Git hub
 - [Dev commiunity](https://dev.to/kavindyasinthasilva) member.
 - foss community volunteer.
 - ieee nsbm volunteer.
--git hub class room teacher.
--school wushu player
+- git hub class room teacher.
+- school wushu player
 - java,php,html,css,c,c#,c+ developer.
 
 ![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/EISeQlIW4AAgCh1.jpg)
