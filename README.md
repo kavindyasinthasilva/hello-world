@@ -44,7 +44,7 @@ All git hub user can use this page and coonducting
 - [twitter](https://twitter.com/KYasintha).
 -  [Linkedin](https://www.linkedin.com/in/s-kavindu-yasintha-sliva-b0378b182/).
 
-# [bloger](https://kavinduyasintha.blogspot.com/) 
+# [bloger](blog.kavinduyasintha.tech) 
 
 ![Image](https://www.instagram.com/p/B4PH_lsF0_S/?utm_source=ig_web_copy_link)
 
