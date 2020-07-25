@@ -4,7 +4,7 @@
 
 Happy New Year! I hope all your endeavors in 2020 are successful.
 
-![Image](https://giphy.com/gifs/WUTywPPYZpdDChyBaZ/html5)
+![Image](https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif)
 
 
 Sky silva
